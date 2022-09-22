@@ -1,0 +1,65 @@
+
+.navbar{
+    background-color:rgba(0, 0, 0, 0.9);
+    margin-top: 1%;
+    border-radius: 5px;
+}  
+.teste{
+
+background-color: rgba(27, 23, 23, 0.2);
+margin-left: 959px;
+border-radius: 5px;
+
+}
+.imgl{
+   height: 60px;
+   width: 120px;
+   margin-left: 1100px;
+   margin-top: -120px;
+}
+.imgls {
+   height: 60px;
+   width: 68px;
+   margin-right: 0px;
+   margin-top: -120px;
+
+}
+.logo {
+margin-top: -120px;
+margin-left: -0px;
+}
+.h1 {
+   margin-top: 50px;
+   height: 100px;
+   width: auto;
+   margin-left: 520px;
+}
+.card{
+   margin-top: 150px;
+   height: 420px;
+}
+
+.card1{
+   margin-left: 450px;
+margin-top: -420px;
+height: 420px;
+}
+.card2{
+   margin-top: -420px;
+   margin-left: 900px;
+height: 420px;}
+.btm{
+   background-color: rgb(241, 26, 11);
+}
+.pulse {
+   margin-top: -32px;
+
+}
+.taos{
+   margin-top: 74px;
+}
+
+.card3 {
+   margin-top: 100px;
+}
+

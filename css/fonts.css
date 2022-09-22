@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'AVENGEANCE';
+    src: url('../fonte/AVENGEANCE_MIGHTIEST_AVENGER.ttf');
+  }
+
+
+  .h1{
+      font-family: AVENGEANCE;
+  }
+  .h2{
+    font-family: AVENGEANCE;
+}
